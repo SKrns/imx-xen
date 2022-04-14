@@ -34,6 +34,7 @@ EARLY_PRINTK_fastmodel      := pl011,0x1c090000,115200
 EARLY_PRINTK_exynos5250     := exynos4210,0x12c20000
 EARLY_PRINTK_hikey960       := pl011,0xfff32000
 EARLY_PRINTK_imx8qm         := imx8qm,0x5a060000
+EARLY_PRINTK_imx8mm         := imx8mm,0x30890000
 EARLY_PRINTK_juno           := pl011,0x7ff80000
 EARLY_PRINTK_lager          := scif,0xe6e60000
 EARLY_PRINTK_midway         := pl011,0xfff36000
